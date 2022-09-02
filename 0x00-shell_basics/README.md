@@ -1,1 +1,2 @@
-1. What in there?
+Display the contents list of your current directory.
+Task 1.Whats in there
