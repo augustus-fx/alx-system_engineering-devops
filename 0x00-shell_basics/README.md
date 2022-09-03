@@ -1,2 +1,2 @@
-Delete the file betty.
-Bye bye Betty
+Delete the directory my_first_directory that is in the /tmp directory.
+Bye bye My first directory
