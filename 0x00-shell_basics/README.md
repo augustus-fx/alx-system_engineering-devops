@@ -1,2 +1,2 @@
-Delete the directory my_first_directory that is in the /tmp directory.
-Bye bye My first directory
+Write a script that changes the working directory to the previous one
+Back to the future
