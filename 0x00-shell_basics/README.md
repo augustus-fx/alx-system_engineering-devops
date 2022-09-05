@@ -1,2 +1,3 @@
- a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
- We are symbols, and inhabit symbols
+Create a script that moves all files beginning with an u
+ppercase letter to the directory /tmp/u.
+
