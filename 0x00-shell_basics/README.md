@@ -1,2 +1,2 @@
-script that prints the type of the file named iamafile in the /tmp directory
-File type
+ a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
+We are symbols, and inhabit symbols
