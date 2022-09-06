@@ -1,3 +1,2 @@
 #!/bbin/bash
 grep -i "root" /etc/passwd
-
